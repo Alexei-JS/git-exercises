@@ -1,2 +1,2 @@
-# tasks-manager
-Java-based tasks manager for routine optimization and flexible long-term planning.
+# git-exercises
+This repository is creating for tasks about git-technology
